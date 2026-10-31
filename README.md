@@ -73,6 +73,7 @@ Link: https://drive.google.com/file/d/1dbz9rPhS7_fd7J9rCNb8mQ3JylEotMxW/view?usp
 ### 4. Đồ thị so sánh cảm biến cũ và cảm biến mới
 - Mạch cũ đo 90 mẫu tổng thời gian 79.92ms
 - Cả 2 đều đo sau khi đã khắc phục lỗi
+- Trong quá trình đo đều rút sạc laptop và các dây thừa
 #### Hình ảnh lúc đo
 ##### Cảm biến cũ
 
