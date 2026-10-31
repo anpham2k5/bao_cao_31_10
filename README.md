@@ -6,7 +6,7 @@
 ## B. Khó Khăn
 ## C. Báo cáo chi tiết 
 ### 1. Code chi tiết
-
+Source code: https://github.com/anpham2k5/bao_cao_31_10/tree/master/STM32_ADC_Touch/src
 ### 2. Phát hiện lỗi khi kiểm tra mạch
 #### Lỗi pad GND ở mặt bottom
 - Pad GND ở mặt bottom không thông với GND toàn mạch
